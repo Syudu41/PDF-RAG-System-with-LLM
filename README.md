@@ -173,14 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ **Scalable Architecture** supporting multiple document formats
 - ✅ **Real-time Processing** with efficient chunking strategy
 
-## 📞 Contact
-
-**Your Name** - your.email@example.com
-
-**Project Link**: [https://github.com/yourusername/pdf-rag-system](https://github.com/yourusername/pdf-rag-system)
-
-**Live Demo**: [Your Streamlit App URL](YOUR_STREAMLIT_URL)
-
 ---
+
 
 ⭐ **Star this repository if you found it helpful!**
